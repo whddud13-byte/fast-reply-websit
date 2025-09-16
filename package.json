@@ -1,0 +1,8 @@
+{
+  "name": "fastreply-website",
+  "version": "1.0.0",
+  "description": "FastReply - AI CS 자동화 시스템",
+  "scripts": {
+    "build": "echo 'Static site ready'"
+  }
+}
